@@ -1,4 +1,4 @@
-[![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@1920w.png)
+![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@1920w.png)
 <h1 align="center">Hi 👋, I'm Ankur Sahni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
